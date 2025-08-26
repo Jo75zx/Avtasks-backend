@@ -1,0 +1,12 @@
+firstName=input("First Name ")
+lastName=input("Last Name ")
+gpa=input("GPA ")
+age=input("Age ")
+day=input("Day ")
+month=input("Month ")
+year=input("Year ")
+date=day+"/"+month+"/"+year
+print(firstName+" "+lastName)
+print(gpa)
+print(age)
+print(date)
